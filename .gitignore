@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# macOS files
+backups/
+.DS_Store
+uploads/
+demo_runs/
+*.db-wal
+*.db-shm
+.coverage
+tmp/
+output/
+dist/

@@ -1,0 +1,7 @@
+# Direct runtime dependencies, pinned to the verified local environment.
+streamlit==1.66.0
+streamlit-pdf==2.1.0
+google-genai==2.31.0
+Pillow==12.3.0
+pandas==3.0.6
+pypdf==6.20.1
